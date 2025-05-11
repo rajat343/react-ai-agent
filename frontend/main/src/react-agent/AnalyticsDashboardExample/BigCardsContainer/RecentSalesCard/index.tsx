@@ -28,8 +28,8 @@ const RecentSalesCard: React.FC<RecentSalesCardProps> = () => {
               <AvatarFallback>OM</AvatarFallback>
             </Avatar>
             <Box className="ml-4 space-y-1">
-              <p className="text-sm font-medium leading-none">Olivia Martin</p>
-              <p className="text-sm text-muted-foreground">olivia.martin@email.com</p>
+              <p className="text-sm font-medium leading-none">Ritika Khandelwal</p>
+              <p className="text-sm text-muted-foreground">ritikasachin.khandelwal@sjsu.edu</p>
             </Box>
             <Box className="ml-auto font-medium">+$1,999.00</Box>
           </Box>
@@ -39,8 +39,8 @@ const RecentSalesCard: React.FC<RecentSalesCardProps> = () => {
               <AvatarFallback>JL</AvatarFallback>
             </Avatar>
             <Box className="ml-4 space-y-1">
-              <p className="text-sm font-medium leading-none">Jackson Lee</p>
-              <p className="text-sm text-muted-foreground">jackson.lee@email.com</p>
+              <p className="text-sm font-medium leading-none">Rajat Mishra</p>
+              <p className="text-sm text-muted-foreground">rajat.mishra@sjsu.edu</p>
             </Box>
             <Box className="ml-auto font-medium">+$39.00</Box>
           </Box>
@@ -50,8 +50,8 @@ const RecentSalesCard: React.FC<RecentSalesCardProps> = () => {
               <AvatarFallback>IN</AvatarFallback>
             </Avatar>
             <Box className="ml-4 space-y-1">
-              <p className="text-sm font-medium leading-none">Isabella Nguyen</p>
-              <p className="text-sm text-muted-foreground">isabella.nguyen@email.com</p>
+              <p className="text-sm font-medium leading-none">Kunal Goel</p>
+              <p className="text-sm text-muted-foreground">kunalrajesh.goel@sjsu.edu</p>
             </Box>
             <Box className="ml-auto font-medium">+$299.00</Box>
           </Box>
@@ -61,8 +61,8 @@ const RecentSalesCard: React.FC<RecentSalesCardProps> = () => {
               <AvatarFallback>WK</AvatarFallback>
             </Avatar>
             <Box className="ml-4 space-y-1">
-              <p className="text-sm font-medium leading-none">William Kim</p>
-              <p className="text-sm text-muted-foreground">will@email.com</p>
+              <p className="text-sm font-medium leading-none">Chandrasekar Vuppalapati</p>
+              <p className="text-sm text-muted-foreground">chandrasekar.vuppalapati@sjsu.edu</p>
             </Box>
             <Box className="ml-auto font-medium">+$99.00</Box>
           </Box>
@@ -72,8 +72,8 @@ const RecentSalesCard: React.FC<RecentSalesCardProps> = () => {
               <AvatarFallback>SD</AvatarFallback>
             </Avatar>
             <Box className="ml-4 space-y-1">
-              <p className="text-sm font-medium leading-none">Sofia Davis</p>
-              <p className="text-sm text-muted-foreground">sofia.davis@email.com</p>
+              <p className="text-sm font-medium leading-none">Adithya Thirumalai</p>
+              <p className="text-sm text-muted-foreground">adithyathirumalai@sjsu.edu</p>
             </Box>
             <Box className="ml-auto font-medium">+$39.00</Box>
           </Box>
