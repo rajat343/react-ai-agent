@@ -7,15 +7,9 @@ const TabNav: React.FC<TabNavProps> = ({}) => {
   return (
     <TabsList>
       <TabsTrigger value="overview">Overview</TabsTrigger>
-      <TabsTrigger value="analytics" disabled>
-        Analytics
-      </TabsTrigger>
-      <TabsTrigger value="reports" disabled>
-        Reports
-      </TabsTrigger>
-      <TabsTrigger value="notifications" disabled>
-        Notifications
-      </TabsTrigger>
+      <TabsTrigger value="analytics">Analytics</TabsTrigger>
+      <TabsTrigger value="reports">Reports</TabsTrigger>
+      <TabsTrigger value="notifications">Notifications</TabsTrigger>
     </TabsList>
   );
 };
