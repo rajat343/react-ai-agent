@@ -38,7 +38,7 @@ const groups = [
     label: 'Personal Account',
     teams: [
       {
-        label: 'Alicia Koch',
+        label: 'Ritika Khandelwal',
         value: 'personal',
       },
     ],
@@ -47,12 +47,12 @@ const groups = [
     label: 'Teams',
     teams: [
       {
-        label: 'Acme Inc.',
-        value: 'acme-inc',
+        label: 'Rajat and Co.',
+        value: 'rajat-inc',
       },
       {
-        label: 'Monsters Inc.',
-        value: 'monsters',
+        label: 'Kunal & Adithya',
+        value: 'kunal-adithya',
       },
     ],
   },
